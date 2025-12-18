@@ -1,2 +1,2 @@
 # mini_sistema
-sistema pratica Gustavo Guanabara
+sistema pratica professor Gustavo Guanabara
